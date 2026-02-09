@@ -159,5 +159,3 @@ Variáveis são a base da programação:
 * Guardam informações
 * Possuem tipos diferentes
 * Ajudam o programa a tomar decisões
-
-> Anotações de lógica de programação 🧑‍💻💙
